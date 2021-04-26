@@ -1,2 +1,13 @@
 - tcpflow
 - Moloch (Arkime)
+- foremost
+- scalpel
+- tcpxtract
+- tcpstat
+- tcpdstat
+- flowgrep
+- tcpslice
+- Dshell
+- scapy
+- Social-Engineer Toolkit (SET)
+
